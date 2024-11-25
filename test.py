@@ -17,4 +17,4 @@ def median(x, y, z):
 x = 2
 y = 3
 w = 3
-print(f"he medan of {x}, {y} and {w} is {median(x, y, w)}")
+print(f"The median of {x}, {y} and {w} is {median(x, y, w)}")
